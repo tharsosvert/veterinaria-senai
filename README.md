@@ -3,7 +3,7 @@
 Projeto de Banco de Dados do Curso de Desenvolvimento Mobile - SENAI - Maracanã
 
 **Integrantes:**
- - Evelyn
+ - Evelyn Dias
  - Fernanda
  - Thierry
  - Thársos
