@@ -12,17 +12,12 @@ Projeto de Banco de Dados do Curso de Desenvolvimento Mobile - SENAI - Maracanã
 
  Imagine uma descrição legal aqui
 
-## Documentação
+# Modelagem do Banco de Dados
 
-- [Manual do Usuário](documentacao/manual/manual.md)
-- [Requisitos](requisitos.md)
-- [Casos de Uso](casos-de-uso.md)
-- [Apresentação](apresentacao.pdf)
+**Modelo Conceitual**
 
-**Diagrama de Classes**
+![Diagrama de Banco de Dados](diagrama/conceitual.png)
 
-![Diagrama de Classes](diagramas/classes/diagrama_classes.png)
+**Modelo Lógico**
 
-**Modelagem do Banco de Dados**
-
-![Diagrama de Banco de Dados](diagramas/entidade_relacional/diagrama.jpg)
+![Diagrama de Banco de Dados](diagrama/logico.png)
