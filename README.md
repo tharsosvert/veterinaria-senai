@@ -21,3 +21,5 @@ Projeto de Banco de Dados do Curso de Desenvolvimento Mobile - SENAI - Maracanã
 **Modelo Lógico**
 
 ![Diagrama de Banco de Dados](diagrama/logico.png)
+
+![SQL](arquivo.sql)
