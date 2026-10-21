@@ -22,4 +22,4 @@ Projeto de Banco de Dados do Curso de Desenvolvimento Mobile - SENAI - Maracanã
 
 ![Diagrama de Banco de Dados](diagrama/logico.png)
 
-![SQL](arquivo.sql)
+* [Arquivo para criação do BD em SQL](arquivo.sql "arquivo.sql")*
