@@ -1,1 +1,0 @@
-Diagramas neste diretório
