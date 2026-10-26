@@ -1,4 +1,4 @@
-# veterinaria-senai
+# Veterinaria Debug
 
 Projeto de Banco de Dados do Curso de Desenvolvimento Mobile - SENAI - Maracanã
 
